@@ -1,0 +1,28 @@
+{
+  "name": "hexo-renderer-browserify",
+  "version": "0.1.0",
+  "description": "Browserify renderer plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmats/hexo-renderer-browserify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bmats/hexo-renderer-browserify/issues"
+  },
+  "keywords": [
+    "hexo",
+    "browserify",
+    "renderer"
+  ],
+  "author": "Bryce Matsumori (https://github.com/bmats)",
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/bmats/hexo-renderer-browserify/master/LICENSE"
+  },
+  "dependencies": {
+    "browserify": "^11.2.0",
+    "minimatch": "^3.0.0",
+    "object-assign": "^4.0.1"
+  }
+}
